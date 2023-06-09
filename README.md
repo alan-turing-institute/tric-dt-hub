@@ -5,7 +5,7 @@ Welcome to the the repository for the Innovation and Impact Hub (Turing Research
 ![An illustration of a digital twin for a city.](./assets/images/digital-twin.jpg)
 
 This repository is for sharing and developing community resources and activities.
-For information about the TRIC-DT and the Innovation and Impact Hub see the [about section below](#about).
+For information about the TRIC-DT and the Innovation and Impact Hub see the [about section below](#about-ℹ️).
 
 ## Repository Contents 📚
 
@@ -29,7 +29,7 @@ The Turing Research and Innovation Cluster in Digital Twins (TRIC-DT), builds on
 To learn more, please check out one of the following resources:
 
 - 🌐 The TRIC-DT webpage: [https://www.turing.ac.uk/research/harnessing-power-digital-twins/turing-research-and-innovation-cluster-digital-twins](https://www.turing.ac.uk/research/harnessing-power-digital-twins/turing-research-and-innovation-cluster-digital-twins)
-- 📝 Twinning ways—how digital twins will change our world for the better (Blog Post): [https://www.turing.ac.uk/about-us/impact/twinning-ways-how-digital-twins-will-change-our-world-better](https://www.turing.ac.uk/about-us/impact/twinning-ways-how-digital-twins-will-change-our-world-better
+- 📝 Twinning ways—how digital twins will change our world for the better (Blog Post): [https://www.turing.ac.uk/about-us/impact/twinning-ways-how-digital-twins-will-change-our-world-better](https://www.turing.ac.uk/about-us/impact/twinning-ways-how-digital-twins-will-change-our-world-better)
 - 📑 Towards ecosystems of connected digital twins to address global challenges (White Paper): [https://www.turing.ac.uk/news/publications/towards-ecosystems-connected-digital-twins-address-global-challenges](https://www.turing.ac.uk/news/publications/towards-ecosystems-connected-digital-twins-address-global-challenges)
 - 🎥 TRIC-DT Introductory Video (YouTube): [https://www.youtube.com/watch?v=79EVfUDU4sI](https://www.youtube.com/watch?v=79EVfUDU4sI)
 

@@ -4,14 +4,20 @@ Welcome to the the repository for the Innovation and Impact Hub (Turing Research
 
 ![An illustration of a digital twin for a city.](./assets/images/digital-twin.jpg)
 
-This repository is for resources and project management related to the Hub's activities.
-It is primarily used by the Hub's core team and the wider TRIC-DT community.
+This repository is for sharing and developing community resources and activities.
+For information about the TRIC-DT and the Innovation and Impact Hub see the [about section below](#about).
 
-## Repository Contents
+## Repository Contents 📚
 
-<!-- add user guide and information (e.g. contributions) -->
+### Resources
 
-## About
+<!-- add list of resources -->
+
+### Contributing
+
+<!-- add link to contributing guideliness -->
+
+## About ℹ️
 
 ### What is the Turing Research and Innovation Cluster in Digital Twins?
 
